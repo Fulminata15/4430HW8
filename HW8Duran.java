@@ -183,6 +183,7 @@ public class HW8Duran
         System.out.print("    " + m[6] + " " + m[7] + " " + m[8] + " " + m[9] + " \n");
         System.out.print("   " + m[10] + " " + m[11] + " " + m[12] + " " + m[13] + " " + m[14] + "\n");
     }
+//=============================================================================================================
     public static void main(String[] args)
 	{
         HW8Duran pegGame = new HW8Duran();
